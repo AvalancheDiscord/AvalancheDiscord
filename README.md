@@ -20,3 +20,5 @@ class Avalance(Programming):
             def YouTube():
                 return "Youtube Subbot"
                 return "YouTube's Recognition"
+```
+![avalanche github stats](https://github-readme-stats.vercel.app/api?username=avalanchediscord&show_icons=true&theme=dracula)
